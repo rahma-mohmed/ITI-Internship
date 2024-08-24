@@ -1,0 +1,98 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ITI Materials\\Day5\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD19CB70-DD4F-4C4B-99FB-FF00BDB9CDFC}|..\\ConsoleApp2\\Sum_avg.csproj|d:\\iti materials\\day5\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42AC0266-C864-4320-878C-C7680AF1E49D}|..\\1DArray_sum_avg\\1DArray_sum_avg.csproj|d:\\iti materials\\day5\\1darray_sum_avg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{127C5562-3E7E-4EBF-BD32-093C019A3AB6}|..\\Magic_box\\Magic_box.csproj|d:\\iti materials\\day5\\magic_box\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55CFC3AA-68F1-4CE5-9209-F65A0C507782}|..\\1D_array_mathematical_eq\\1D_array_mathematical_eq.csproj|d:\\iti materials\\day5\\1d_array_mathematical_eq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8AE78B8-43DE-4F2B-B0D2-205DE072974F}|..\\Maximum_Minimum\\Maximum_Minimum.csproj|d:\\iti materials\\day5\\maximum_minimum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ITI Materials\\Day5\\Magic_box\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Magic_box\\Program.cs",
+              "ToolTip": "D:\\ITI Materials\\Day5\\Magic_box\\Program.cs*",
+              "RelativeToolTip": "..\\Magic_box\\Program.cs*",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T12:27:44.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ITI Materials\\Day5\\1DArray_sum_avg\\Program.cs",
+              "RelativeDocumentMoniker": "..\\1DArray_sum_avg\\Program.cs",
+              "ToolTip": "D:\\ITI Materials\\Day5\\1DArray_sum_avg\\Program.cs",
+              "RelativeToolTip": "..\\1DArray_sum_avg\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T11:21:43.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ITI Materials\\Day5\\1D_array_mathematical_eq\\Program.cs",
+              "RelativeDocumentMoniker": "..\\1D_array_mathematical_eq\\Program.cs",
+              "ToolTip": "D:\\ITI Materials\\Day5\\1D_array_mathematical_eq\\Program.cs",
+              "RelativeToolTip": "..\\1D_array_mathematical_eq\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T11:21:10.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ITI Materials\\Day5\\Maximum_Minimum\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Maximum_Minimum\\Program.cs",
+              "ToolTip": "D:\\ITI Materials\\Day5\\Maximum_Minimum\\Program.cs",
+              "RelativeToolTip": "..\\Maximum_Minimum\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T11:19:17.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ITI Materials\\Day5\\ConsoleApp2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp2\\Program.cs",
+              "ToolTip": "D:\\ITI Materials\\Day5\\ConsoleApp2\\Program.cs",
+              "RelativeToolTip": "..\\ConsoleApp2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T11:16:06.579Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

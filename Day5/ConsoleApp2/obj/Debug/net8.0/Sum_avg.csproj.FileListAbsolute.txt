@@ -1,0 +1,14 @@
+D:\ITI Materials\Day5\ConsoleApp2\bin\Debug\net8.0\Sum_avg.exe
+D:\ITI Materials\Day5\ConsoleApp2\bin\Debug\net8.0\Sum_avg.deps.json
+D:\ITI Materials\Day5\ConsoleApp2\bin\Debug\net8.0\Sum_avg.runtimeconfig.json
+D:\ITI Materials\Day5\ConsoleApp2\bin\Debug\net8.0\Sum_avg.dll
+D:\ITI Materials\Day5\ConsoleApp2\bin\Debug\net8.0\Sum_avg.pdb
+D:\ITI Materials\Day5\ConsoleApp2\obj\Debug\net8.0\Sum_avg.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI Materials\Day5\ConsoleApp2\obj\Debug\net8.0\Sum_avg.AssemblyInfoInputs.cache
+D:\ITI Materials\Day5\ConsoleApp2\obj\Debug\net8.0\Sum_avg.AssemblyInfo.cs
+D:\ITI Materials\Day5\ConsoleApp2\obj\Debug\net8.0\Sum_avg.csproj.CoreCompileInputs.cache
+D:\ITI Materials\Day5\ConsoleApp2\obj\Debug\net8.0\Sum_avg.dll
+D:\ITI Materials\Day5\ConsoleApp2\obj\Debug\net8.0\refint\Sum_avg.dll
+D:\ITI Materials\Day5\ConsoleApp2\obj\Debug\net8.0\Sum_avg.pdb
+D:\ITI Materials\Day5\ConsoleApp2\obj\Debug\net8.0\Sum_avg.genruntimeconfig.cache
+D:\ITI Materials\Day5\ConsoleApp2\obj\Debug\net8.0\ref\Sum_avg.dll

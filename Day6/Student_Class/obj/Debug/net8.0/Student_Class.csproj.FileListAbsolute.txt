@@ -1,0 +1,14 @@
+D:\ITI Materials\Day7\Student_Class\bin\Debug\net8.0\Student_Class.exe
+D:\ITI Materials\Day7\Student_Class\bin\Debug\net8.0\Student_Class.deps.json
+D:\ITI Materials\Day7\Student_Class\bin\Debug\net8.0\Student_Class.runtimeconfig.json
+D:\ITI Materials\Day7\Student_Class\bin\Debug\net8.0\Student_Class.dll
+D:\ITI Materials\Day7\Student_Class\bin\Debug\net8.0\Student_Class.pdb
+D:\ITI Materials\Day7\Student_Class\obj\Debug\net8.0\Student_Class.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI Materials\Day7\Student_Class\obj\Debug\net8.0\Student_Class.AssemblyInfoInputs.cache
+D:\ITI Materials\Day7\Student_Class\obj\Debug\net8.0\Student_Class.AssemblyInfo.cs
+D:\ITI Materials\Day7\Student_Class\obj\Debug\net8.0\Student_Class.csproj.CoreCompileInputs.cache
+D:\ITI Materials\Day7\Student_Class\obj\Debug\net8.0\Student_Class.dll
+D:\ITI Materials\Day7\Student_Class\obj\Debug\net8.0\refint\Student_Class.dll
+D:\ITI Materials\Day7\Student_Class\obj\Debug\net8.0\Student_Class.pdb
+D:\ITI Materials\Day7\Student_Class\obj\Debug\net8.0\Student_Class.genruntimeconfig.cache
+D:\ITI Materials\Day7\Student_Class\obj\Debug\net8.0\ref\Student_Class.dll

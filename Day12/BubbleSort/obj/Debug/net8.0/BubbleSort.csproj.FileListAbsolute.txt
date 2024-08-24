@@ -1,0 +1,14 @@
+D:\ITI Materials\Day12\BubbleSort\bin\Debug\net8.0\BubbleSort.exe
+D:\ITI Materials\Day12\BubbleSort\bin\Debug\net8.0\BubbleSort.deps.json
+D:\ITI Materials\Day12\BubbleSort\bin\Debug\net8.0\BubbleSort.runtimeconfig.json
+D:\ITI Materials\Day12\BubbleSort\bin\Debug\net8.0\BubbleSort.dll
+D:\ITI Materials\Day12\BubbleSort\bin\Debug\net8.0\BubbleSort.pdb
+D:\ITI Materials\Day12\BubbleSort\obj\Debug\net8.0\BubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI Materials\Day12\BubbleSort\obj\Debug\net8.0\BubbleSort.AssemblyInfoInputs.cache
+D:\ITI Materials\Day12\BubbleSort\obj\Debug\net8.0\BubbleSort.AssemblyInfo.cs
+D:\ITI Materials\Day12\BubbleSort\obj\Debug\net8.0\BubbleSort.csproj.CoreCompileInputs.cache
+D:\ITI Materials\Day12\BubbleSort\obj\Debug\net8.0\BubbleSort.dll
+D:\ITI Materials\Day12\BubbleSort\obj\Debug\net8.0\refint\BubbleSort.dll
+D:\ITI Materials\Day12\BubbleSort\obj\Debug\net8.0\BubbleSort.pdb
+D:\ITI Materials\Day12\BubbleSort\obj\Debug\net8.0\BubbleSort.genruntimeconfig.cache
+D:\ITI Materials\Day12\BubbleSort\obj\Debug\net8.0\ref\BubbleSort.dll

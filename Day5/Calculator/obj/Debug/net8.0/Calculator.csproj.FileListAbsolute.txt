@@ -1,0 +1,14 @@
+D:\ITI Materials\Day5\Calculator\bin\Debug\net8.0\Calculator.exe
+D:\ITI Materials\Day5\Calculator\bin\Debug\net8.0\Calculator.deps.json
+D:\ITI Materials\Day5\Calculator\bin\Debug\net8.0\Calculator.runtimeconfig.json
+D:\ITI Materials\Day5\Calculator\bin\Debug\net8.0\Calculator.dll
+D:\ITI Materials\Day5\Calculator\bin\Debug\net8.0\Calculator.pdb
+D:\ITI Materials\Day5\Calculator\obj\Debug\net8.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI Materials\Day5\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfoInputs.cache
+D:\ITI Materials\Day5\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfo.cs
+D:\ITI Materials\Day5\Calculator\obj\Debug\net8.0\Calculator.csproj.CoreCompileInputs.cache
+D:\ITI Materials\Day5\Calculator\obj\Debug\net8.0\Calculator.dll
+D:\ITI Materials\Day5\Calculator\obj\Debug\net8.0\refint\Calculator.dll
+D:\ITI Materials\Day5\Calculator\obj\Debug\net8.0\Calculator.pdb
+D:\ITI Materials\Day5\Calculator\obj\Debug\net8.0\Calculator.genruntimeconfig.cache
+D:\ITI Materials\Day5\Calculator\obj\Debug\net8.0\ref\Calculator.dll

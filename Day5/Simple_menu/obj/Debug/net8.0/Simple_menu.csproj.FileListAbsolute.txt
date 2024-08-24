@@ -1,0 +1,14 @@
+D:\ITI Materials\Day5\Simple_menu\bin\Debug\net8.0\Simple_menu.exe
+D:\ITI Materials\Day5\Simple_menu\bin\Debug\net8.0\Simple_menu.deps.json
+D:\ITI Materials\Day5\Simple_menu\bin\Debug\net8.0\Simple_menu.runtimeconfig.json
+D:\ITI Materials\Day5\Simple_menu\bin\Debug\net8.0\Simple_menu.dll
+D:\ITI Materials\Day5\Simple_menu\bin\Debug\net8.0\Simple_menu.pdb
+D:\ITI Materials\Day5\Simple_menu\obj\Debug\net8.0\Simple_menu.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI Materials\Day5\Simple_menu\obj\Debug\net8.0\Simple_menu.AssemblyInfoInputs.cache
+D:\ITI Materials\Day5\Simple_menu\obj\Debug\net8.0\Simple_menu.AssemblyInfo.cs
+D:\ITI Materials\Day5\Simple_menu\obj\Debug\net8.0\Simple_menu.csproj.CoreCompileInputs.cache
+D:\ITI Materials\Day5\Simple_menu\obj\Debug\net8.0\Simple_menu.dll
+D:\ITI Materials\Day5\Simple_menu\obj\Debug\net8.0\refint\Simple_menu.dll
+D:\ITI Materials\Day5\Simple_menu\obj\Debug\net8.0\Simple_menu.pdb
+D:\ITI Materials\Day5\Simple_menu\obj\Debug\net8.0\Simple_menu.genruntimeconfig.cache
+D:\ITI Materials\Day5\Simple_menu\obj\Debug\net8.0\ref\Simple_menu.dll

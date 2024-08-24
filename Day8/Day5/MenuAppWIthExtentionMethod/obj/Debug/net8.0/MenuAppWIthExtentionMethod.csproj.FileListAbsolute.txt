@@ -1,0 +1,14 @@
+D:\ITI Materials\Day8\Day5\MenuAppWIthExtentionMethod\bin\Debug\net8.0\MenuAppWIthExtentionMethod.exe
+D:\ITI Materials\Day8\Day5\MenuAppWIthExtentionMethod\bin\Debug\net8.0\MenuAppWIthExtentionMethod.deps.json
+D:\ITI Materials\Day8\Day5\MenuAppWIthExtentionMethod\bin\Debug\net8.0\MenuAppWIthExtentionMethod.runtimeconfig.json
+D:\ITI Materials\Day8\Day5\MenuAppWIthExtentionMethod\bin\Debug\net8.0\MenuAppWIthExtentionMethod.dll
+D:\ITI Materials\Day8\Day5\MenuAppWIthExtentionMethod\bin\Debug\net8.0\MenuAppWIthExtentionMethod.pdb
+D:\ITI Materials\Day8\Day5\MenuAppWIthExtentionMethod\obj\Debug\net8.0\MenuAppWIthExtentionMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI Materials\Day8\Day5\MenuAppWIthExtentionMethod\obj\Debug\net8.0\MenuAppWIthExtentionMethod.AssemblyInfoInputs.cache
+D:\ITI Materials\Day8\Day5\MenuAppWIthExtentionMethod\obj\Debug\net8.0\MenuAppWIthExtentionMethod.AssemblyInfo.cs
+D:\ITI Materials\Day8\Day5\MenuAppWIthExtentionMethod\obj\Debug\net8.0\MenuAppWIthExtentionMethod.csproj.CoreCompileInputs.cache
+D:\ITI Materials\Day8\Day5\MenuAppWIthExtentionMethod\obj\Debug\net8.0\MenuAppWIthExtentionMethod.dll
+D:\ITI Materials\Day8\Day5\MenuAppWIthExtentionMethod\obj\Debug\net8.0\refint\MenuAppWIthExtentionMethod.dll
+D:\ITI Materials\Day8\Day5\MenuAppWIthExtentionMethod\obj\Debug\net8.0\MenuAppWIthExtentionMethod.pdb
+D:\ITI Materials\Day8\Day5\MenuAppWIthExtentionMethod\obj\Debug\net8.0\MenuAppWIthExtentionMethod.genruntimeconfig.cache
+D:\ITI Materials\Day8\Day5\MenuAppWIthExtentionMethod\obj\Debug\net8.0\ref\MenuAppWIthExtentionMethod.dll

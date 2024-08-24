@@ -1,0 +1,14 @@
+D:\ITI Materials\Day5\2DArray_ degree_of _student\bin\Debug\net8.0\2DArray_ degree_of _student.exe
+D:\ITI Materials\Day5\2DArray_ degree_of _student\bin\Debug\net8.0\2DArray_ degree_of _student.deps.json
+D:\ITI Materials\Day5\2DArray_ degree_of _student\bin\Debug\net8.0\2DArray_ degree_of _student.runtimeconfig.json
+D:\ITI Materials\Day5\2DArray_ degree_of _student\bin\Debug\net8.0\2DArray_ degree_of _student.dll
+D:\ITI Materials\Day5\2DArray_ degree_of _student\bin\Debug\net8.0\2DArray_ degree_of _student.pdb
+D:\ITI Materials\Day5\2DArray_ degree_of _student\obj\Debug\net8.0\2DArray_ degree_of _student.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI Materials\Day5\2DArray_ degree_of _student\obj\Debug\net8.0\2DArray_ degree_of _student.AssemblyInfoInputs.cache
+D:\ITI Materials\Day5\2DArray_ degree_of _student\obj\Debug\net8.0\2DArray_ degree_of _student.AssemblyInfo.cs
+D:\ITI Materials\Day5\2DArray_ degree_of _student\obj\Debug\net8.0\2DArray_ degree_of _student.csproj.CoreCompileInputs.cache
+D:\ITI Materials\Day5\2DArray_ degree_of _student\obj\Debug\net8.0\2DArray_ degree_of _student.dll
+D:\ITI Materials\Day5\2DArray_ degree_of _student\obj\Debug\net8.0\refint\2DArray_ degree_of _student.dll
+D:\ITI Materials\Day5\2DArray_ degree_of _student\obj\Debug\net8.0\2DArray_ degree_of _student.pdb
+D:\ITI Materials\Day5\2DArray_ degree_of _student\obj\Debug\net8.0\2DArray_ degree_of _student.genruntimeconfig.cache
+D:\ITI Materials\Day5\2DArray_ degree_of _student\obj\Debug\net8.0\ref\2DArray_ degree_of _student.dll

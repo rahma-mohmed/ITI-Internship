@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ITI Materials\\Day12\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3C59247-E02A-40AE-AAC9-F5290FC6A600}|..\\ConsoleApp3\\ConsoleApp3.csproj|d:\\iti materials\\day12\\consoleapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CABA5637-03E7-4916-9E23-D362B911DF3F}|ConsoleApp1\\ConsoleApp1.csproj|d:\\iti materials\\day12\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CABA5637-03E7-4916-9E23-D362B911DF3F}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D82B10DF-9B9F-494C-AF1C-483ACE5B7AE1}|..\\MenuProgram\\MenuProgram.csproj|d:\\iti materials\\day12\\menuprogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC1FFCD1-733E-4AC1-8BAC-D8848D6AE54E}|..\\ConsoleApp2\\TemperatureProg.csproj|d:\\iti materials\\day12\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE7B8475-998B-46DF-BCC1-AE0B3CAFF50D}|..\\BubbleSort\\BubbleSort.csproj|d:\\iti materials\\day12\\bubblesort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ITI Materials\\Day12\\ConsoleApp3\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp3\\Program.cs",
+              "ToolTip": "D:\\ITI Materials\\Day12\\ConsoleApp3\\Program.cs",
+              "RelativeToolTip": "..\\ConsoleApp3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T08:17:50.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ITI Materials\\Day12\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "D:\\ITI Materials\\Day12\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T08:17:42.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ITI Materials\\Day12\\BubbleSort\\Program.cs",
+              "RelativeDocumentMoniker": "..\\BubbleSort\\Program.cs",
+              "ToolTip": "D:\\ITI Materials\\Day12\\BubbleSort\\Program.cs",
+              "RelativeToolTip": "..\\BubbleSort\\Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T11:20:41.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ITI Materials\\Day12\\MenuProgram\\Program.cs",
+              "RelativeDocumentMoniker": "..\\MenuProgram\\Program.cs",
+              "ToolTip": "D:\\ITI Materials\\Day12\\MenuProgram\\Program.cs",
+              "RelativeToolTip": "..\\MenuProgram\\Program.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAAAHAAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T12:22:04.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ITI Materials\\Day12\\ConsoleApp2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp2\\Program.cs",
+              "ToolTip": "D:\\ITI Materials\\Day12\\ConsoleApp2\\Program.cs",
+              "RelativeToolTip": "..\\ConsoleApp2\\Program.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T09:41:59.606Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

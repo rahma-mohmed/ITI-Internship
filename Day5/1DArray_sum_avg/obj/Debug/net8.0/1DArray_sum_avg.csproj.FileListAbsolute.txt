@@ -1,0 +1,14 @@
+D:\ITI Materials\Day5\1DArray_sum_avg\bin\Debug\net8.0\1DArray_sum_avg.exe
+D:\ITI Materials\Day5\1DArray_sum_avg\bin\Debug\net8.0\1DArray_sum_avg.deps.json
+D:\ITI Materials\Day5\1DArray_sum_avg\bin\Debug\net8.0\1DArray_sum_avg.runtimeconfig.json
+D:\ITI Materials\Day5\1DArray_sum_avg\bin\Debug\net8.0\1DArray_sum_avg.dll
+D:\ITI Materials\Day5\1DArray_sum_avg\bin\Debug\net8.0\1DArray_sum_avg.pdb
+D:\ITI Materials\Day5\1DArray_sum_avg\obj\Debug\net8.0\1DArray_sum_avg.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI Materials\Day5\1DArray_sum_avg\obj\Debug\net8.0\1DArray_sum_avg.AssemblyInfoInputs.cache
+D:\ITI Materials\Day5\1DArray_sum_avg\obj\Debug\net8.0\1DArray_sum_avg.AssemblyInfo.cs
+D:\ITI Materials\Day5\1DArray_sum_avg\obj\Debug\net8.0\1DArray_sum_avg.csproj.CoreCompileInputs.cache
+D:\ITI Materials\Day5\1DArray_sum_avg\obj\Debug\net8.0\1DArray_sum_avg.dll
+D:\ITI Materials\Day5\1DArray_sum_avg\obj\Debug\net8.0\refint\1DArray_sum_avg.dll
+D:\ITI Materials\Day5\1DArray_sum_avg\obj\Debug\net8.0\1DArray_sum_avg.pdb
+D:\ITI Materials\Day5\1DArray_sum_avg\obj\Debug\net8.0\1DArray_sum_avg.genruntimeconfig.cache
+D:\ITI Materials\Day5\1DArray_sum_avg\obj\Debug\net8.0\ref\1DArray_sum_avg.dll

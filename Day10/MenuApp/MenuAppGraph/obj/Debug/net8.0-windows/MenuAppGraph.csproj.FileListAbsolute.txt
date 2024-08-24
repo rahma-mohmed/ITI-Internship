@@ -1,0 +1,16 @@
+D:\ITI Materials\Day10\MenuApp\MenuAppGraph\bin\Debug\net8.0-windows\MenuAppGraph.exe
+D:\ITI Materials\Day10\MenuApp\MenuAppGraph\bin\Debug\net8.0-windows\MenuAppGraph.deps.json
+D:\ITI Materials\Day10\MenuApp\MenuAppGraph\bin\Debug\net8.0-windows\MenuAppGraph.runtimeconfig.json
+D:\ITI Materials\Day10\MenuApp\MenuAppGraph\bin\Debug\net8.0-windows\MenuAppGraph.dll
+D:\ITI Materials\Day10\MenuApp\MenuAppGraph\bin\Debug\net8.0-windows\MenuAppGraph.pdb
+D:\ITI Materials\Day10\MenuApp\MenuAppGraph\obj\Debug\net8.0-windows\MenuAppGraph.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI Materials\Day10\MenuApp\MenuAppGraph\obj\Debug\net8.0-windows\MenuAppGraph.AssemblyInfoInputs.cache
+D:\ITI Materials\Day10\MenuApp\MenuAppGraph\obj\Debug\net8.0-windows\MenuAppGraph.AssemblyInfo.cs
+D:\ITI Materials\Day10\MenuApp\MenuAppGraph\obj\Debug\net8.0-windows\MenuAppGraph.csproj.CoreCompileInputs.cache
+D:\ITI Materials\Day10\MenuApp\MenuAppGraph\obj\Debug\net8.0-windows\MenuAppGraph.dll
+D:\ITI Materials\Day10\MenuApp\MenuAppGraph\obj\Debug\net8.0-windows\refint\MenuAppGraph.dll
+D:\ITI Materials\Day10\MenuApp\MenuAppGraph\obj\Debug\net8.0-windows\MenuAppGraph.pdb
+D:\ITI Materials\Day10\MenuApp\MenuAppGraph\obj\Debug\net8.0-windows\MenuAppGraph.genruntimeconfig.cache
+D:\ITI Materials\Day10\MenuApp\MenuAppGraph\obj\Debug\net8.0-windows\ref\MenuAppGraph.dll
+D:\ITI Materials\Day10\MenuApp\MenuAppGraph\obj\Debug\net8.0-windows\MenuAppGraph.csproj.AssemblyReference.cache
+D:\ITI Materials\Day10\MenuApp\MenuAppGraph\obj\Debug\net8.0-windows\MenuAppG.F0BA0170.Up2Date

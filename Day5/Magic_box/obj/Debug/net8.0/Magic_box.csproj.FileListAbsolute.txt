@@ -1,0 +1,14 @@
+D:\ITI Materials\Day5\Magic_box\bin\Debug\net8.0\Magic_box.exe
+D:\ITI Materials\Day5\Magic_box\bin\Debug\net8.0\Magic_box.deps.json
+D:\ITI Materials\Day5\Magic_box\bin\Debug\net8.0\Magic_box.runtimeconfig.json
+D:\ITI Materials\Day5\Magic_box\bin\Debug\net8.0\Magic_box.dll
+D:\ITI Materials\Day5\Magic_box\bin\Debug\net8.0\Magic_box.pdb
+D:\ITI Materials\Day5\Magic_box\obj\Debug\net8.0\Magic_box.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI Materials\Day5\Magic_box\obj\Debug\net8.0\Magic_box.AssemblyInfoInputs.cache
+D:\ITI Materials\Day5\Magic_box\obj\Debug\net8.0\Magic_box.AssemblyInfo.cs
+D:\ITI Materials\Day5\Magic_box\obj\Debug\net8.0\Magic_box.csproj.CoreCompileInputs.cache
+D:\ITI Materials\Day5\Magic_box\obj\Debug\net8.0\Magic_box.dll
+D:\ITI Materials\Day5\Magic_box\obj\Debug\net8.0\refint\Magic_box.dll
+D:\ITI Materials\Day5\Magic_box\obj\Debug\net8.0\Magic_box.pdb
+D:\ITI Materials\Day5\Magic_box\obj\Debug\net8.0\Magic_box.genruntimeconfig.cache
+D:\ITI Materials\Day5\Magic_box\obj\Debug\net8.0\ref\Magic_box.dll

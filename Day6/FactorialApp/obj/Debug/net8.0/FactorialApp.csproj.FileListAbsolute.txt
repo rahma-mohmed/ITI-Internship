@@ -1,0 +1,14 @@
+D:\ITI Materials\Day7\FactorialApp\bin\Debug\net8.0\FactorialApp.exe
+D:\ITI Materials\Day7\FactorialApp\bin\Debug\net8.0\FactorialApp.deps.json
+D:\ITI Materials\Day7\FactorialApp\bin\Debug\net8.0\FactorialApp.runtimeconfig.json
+D:\ITI Materials\Day7\FactorialApp\bin\Debug\net8.0\FactorialApp.dll
+D:\ITI Materials\Day7\FactorialApp\bin\Debug\net8.0\FactorialApp.pdb
+D:\ITI Materials\Day7\FactorialApp\obj\Debug\net8.0\FactorialApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI Materials\Day7\FactorialApp\obj\Debug\net8.0\FactorialApp.AssemblyInfoInputs.cache
+D:\ITI Materials\Day7\FactorialApp\obj\Debug\net8.0\FactorialApp.AssemblyInfo.cs
+D:\ITI Materials\Day7\FactorialApp\obj\Debug\net8.0\FactorialApp.csproj.CoreCompileInputs.cache
+D:\ITI Materials\Day7\FactorialApp\obj\Debug\net8.0\FactorialApp.dll
+D:\ITI Materials\Day7\FactorialApp\obj\Debug\net8.0\refint\FactorialApp.dll
+D:\ITI Materials\Day7\FactorialApp\obj\Debug\net8.0\FactorialApp.pdb
+D:\ITI Materials\Day7\FactorialApp\obj\Debug\net8.0\FactorialApp.genruntimeconfig.cache
+D:\ITI Materials\Day7\FactorialApp\obj\Debug\net8.0\ref\FactorialApp.dll

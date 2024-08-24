@@ -1,0 +1,14 @@
+D:\ITI Materials\Day7\Day4\Complex\bin\Debug\net8.0\ComplexApp.exe
+D:\ITI Materials\Day7\Day4\Complex\bin\Debug\net8.0\ComplexApp.deps.json
+D:\ITI Materials\Day7\Day4\Complex\bin\Debug\net8.0\ComplexApp.runtimeconfig.json
+D:\ITI Materials\Day7\Day4\Complex\bin\Debug\net8.0\ComplexApp.dll
+D:\ITI Materials\Day7\Day4\Complex\bin\Debug\net8.0\ComplexApp.pdb
+D:\ITI Materials\Day7\Day4\Complex\obj\Debug\net8.0\ComplexApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI Materials\Day7\Day4\Complex\obj\Debug\net8.0\ComplexApp.AssemblyInfoInputs.cache
+D:\ITI Materials\Day7\Day4\Complex\obj\Debug\net8.0\ComplexApp.AssemblyInfo.cs
+D:\ITI Materials\Day7\Day4\Complex\obj\Debug\net8.0\ComplexApp.csproj.CoreCompileInputs.cache
+D:\ITI Materials\Day7\Day4\Complex\obj\Debug\net8.0\ComplexApp.dll
+D:\ITI Materials\Day7\Day4\Complex\obj\Debug\net8.0\refint\ComplexApp.dll
+D:\ITI Materials\Day7\Day4\Complex\obj\Debug\net8.0\ComplexApp.pdb
+D:\ITI Materials\Day7\Day4\Complex\obj\Debug\net8.0\ComplexApp.genruntimeconfig.cache
+D:\ITI Materials\Day7\Day4\Complex\obj\Debug\net8.0\ref\ComplexApp.dll

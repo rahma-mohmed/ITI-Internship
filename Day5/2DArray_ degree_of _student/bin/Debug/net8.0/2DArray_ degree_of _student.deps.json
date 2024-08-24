@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "2DArray_ degree_of _student/1.0.0": {
+        "runtime": {
+          "2DArray_ degree_of _student.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "2DArray_ degree_of _student/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

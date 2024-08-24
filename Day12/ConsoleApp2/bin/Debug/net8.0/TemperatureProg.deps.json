@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TemperatureProg/1.0.0": {
+        "runtime": {
+          "TemperatureProg.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TemperatureProg/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

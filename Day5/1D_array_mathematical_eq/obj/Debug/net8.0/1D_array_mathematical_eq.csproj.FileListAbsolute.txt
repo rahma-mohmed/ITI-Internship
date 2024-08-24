@@ -1,0 +1,14 @@
+D:\ITI Materials\Day5\1D_array_mathematical_eq\bin\Debug\net8.0\1D_array_mathematical_eq.exe
+D:\ITI Materials\Day5\1D_array_mathematical_eq\bin\Debug\net8.0\1D_array_mathematical_eq.deps.json
+D:\ITI Materials\Day5\1D_array_mathematical_eq\bin\Debug\net8.0\1D_array_mathematical_eq.runtimeconfig.json
+D:\ITI Materials\Day5\1D_array_mathematical_eq\bin\Debug\net8.0\1D_array_mathematical_eq.dll
+D:\ITI Materials\Day5\1D_array_mathematical_eq\bin\Debug\net8.0\1D_array_mathematical_eq.pdb
+D:\ITI Materials\Day5\1D_array_mathematical_eq\obj\Debug\net8.0\1D_array_mathematical_eq.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI Materials\Day5\1D_array_mathematical_eq\obj\Debug\net8.0\1D_array_mathematical_eq.AssemblyInfoInputs.cache
+D:\ITI Materials\Day5\1D_array_mathematical_eq\obj\Debug\net8.0\1D_array_mathematical_eq.AssemblyInfo.cs
+D:\ITI Materials\Day5\1D_array_mathematical_eq\obj\Debug\net8.0\1D_array_mathematical_eq.csproj.CoreCompileInputs.cache
+D:\ITI Materials\Day5\1D_array_mathematical_eq\obj\Debug\net8.0\1D_array_mathematical_eq.dll
+D:\ITI Materials\Day5\1D_array_mathematical_eq\obj\Debug\net8.0\refint\1D_array_mathematical_eq.dll
+D:\ITI Materials\Day5\1D_array_mathematical_eq\obj\Debug\net8.0\1D_array_mathematical_eq.pdb
+D:\ITI Materials\Day5\1D_array_mathematical_eq\obj\Debug\net8.0\1D_array_mathematical_eq.genruntimeconfig.cache
+D:\ITI Materials\Day5\1D_array_mathematical_eq\obj\Debug\net8.0\ref\1D_array_mathematical_eq.dll

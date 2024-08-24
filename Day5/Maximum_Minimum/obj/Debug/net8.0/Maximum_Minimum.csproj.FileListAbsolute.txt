@@ -1,0 +1,14 @@
+D:\ITI Materials\Day5\Maximum_Minimum\bin\Debug\net8.0\Maximum_Minimum.exe
+D:\ITI Materials\Day5\Maximum_Minimum\bin\Debug\net8.0\Maximum_Minimum.deps.json
+D:\ITI Materials\Day5\Maximum_Minimum\bin\Debug\net8.0\Maximum_Minimum.runtimeconfig.json
+D:\ITI Materials\Day5\Maximum_Minimum\bin\Debug\net8.0\Maximum_Minimum.dll
+D:\ITI Materials\Day5\Maximum_Minimum\bin\Debug\net8.0\Maximum_Minimum.pdb
+D:\ITI Materials\Day5\Maximum_Minimum\obj\Debug\net8.0\Maximum_Minimum.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI Materials\Day5\Maximum_Minimum\obj\Debug\net8.0\Maximum_Minimum.AssemblyInfoInputs.cache
+D:\ITI Materials\Day5\Maximum_Minimum\obj\Debug\net8.0\Maximum_Minimum.AssemblyInfo.cs
+D:\ITI Materials\Day5\Maximum_Minimum\obj\Debug\net8.0\Maximum_Minimum.csproj.CoreCompileInputs.cache
+D:\ITI Materials\Day5\Maximum_Minimum\obj\Debug\net8.0\Maximum_Minimum.dll
+D:\ITI Materials\Day5\Maximum_Minimum\obj\Debug\net8.0\refint\Maximum_Minimum.dll
+D:\ITI Materials\Day5\Maximum_Minimum\obj\Debug\net8.0\Maximum_Minimum.pdb
+D:\ITI Materials\Day5\Maximum_Minimum\obj\Debug\net8.0\Maximum_Minimum.genruntimeconfig.cache
+D:\ITI Materials\Day5\Maximum_Minimum\obj\Debug\net8.0\ref\Maximum_Minimum.dll

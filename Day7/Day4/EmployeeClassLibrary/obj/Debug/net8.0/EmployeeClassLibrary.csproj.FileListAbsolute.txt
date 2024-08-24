@@ -1,0 +1,11 @@
+D:\ITI Materials\Day7\Day4\EmployeeClassLibrary\bin\Debug\net8.0\EmployeeClassLibrary.deps.json
+D:\ITI Materials\Day7\Day4\EmployeeClassLibrary\bin\Debug\net8.0\EmployeeClassLibrary.dll
+D:\ITI Materials\Day7\Day4\EmployeeClassLibrary\bin\Debug\net8.0\EmployeeClassLibrary.pdb
+D:\ITI Materials\Day7\Day4\EmployeeClassLibrary\obj\Debug\net8.0\EmployeeClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI Materials\Day7\Day4\EmployeeClassLibrary\obj\Debug\net8.0\EmployeeClassLibrary.AssemblyInfoInputs.cache
+D:\ITI Materials\Day7\Day4\EmployeeClassLibrary\obj\Debug\net8.0\EmployeeClassLibrary.AssemblyInfo.cs
+D:\ITI Materials\Day7\Day4\EmployeeClassLibrary\obj\Debug\net8.0\EmployeeClassLibrary.csproj.CoreCompileInputs.cache
+D:\ITI Materials\Day7\Day4\EmployeeClassLibrary\obj\Debug\net8.0\EmployeeClassLibrary.dll
+D:\ITI Materials\Day7\Day4\EmployeeClassLibrary\obj\Debug\net8.0\refint\EmployeeClassLibrary.dll
+D:\ITI Materials\Day7\Day4\EmployeeClassLibrary\obj\Debug\net8.0\EmployeeClassLibrary.pdb
+D:\ITI Materials\Day7\Day4\EmployeeClassLibrary\obj\Debug\net8.0\ref\EmployeeClassLibrary.dll

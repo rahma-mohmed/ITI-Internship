@@ -1,0 +1,14 @@
+D:\ITI Materials\Day9\Day6\Day6\GeoShapApp\bin\Debug\net8.0\GeoShapApp.exe
+D:\ITI Materials\Day9\Day6\Day6\GeoShapApp\bin\Debug\net8.0\GeoShapApp.deps.json
+D:\ITI Materials\Day9\Day6\Day6\GeoShapApp\bin\Debug\net8.0\GeoShapApp.runtimeconfig.json
+D:\ITI Materials\Day9\Day6\Day6\GeoShapApp\bin\Debug\net8.0\GeoShapApp.dll
+D:\ITI Materials\Day9\Day6\Day6\GeoShapApp\bin\Debug\net8.0\GeoShapApp.pdb
+D:\ITI Materials\Day9\Day6\Day6\GeoShapApp\obj\Debug\net8.0\GeoShapApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI Materials\Day9\Day6\Day6\GeoShapApp\obj\Debug\net8.0\GeoShapApp.AssemblyInfoInputs.cache
+D:\ITI Materials\Day9\Day6\Day6\GeoShapApp\obj\Debug\net8.0\GeoShapApp.AssemblyInfo.cs
+D:\ITI Materials\Day9\Day6\Day6\GeoShapApp\obj\Debug\net8.0\GeoShapApp.csproj.CoreCompileInputs.cache
+D:\ITI Materials\Day9\Day6\Day6\GeoShapApp\obj\Debug\net8.0\GeoShapApp.dll
+D:\ITI Materials\Day9\Day6\Day6\GeoShapApp\obj\Debug\net8.0\refint\GeoShapApp.dll
+D:\ITI Materials\Day9\Day6\Day6\GeoShapApp\obj\Debug\net8.0\GeoShapApp.pdb
+D:\ITI Materials\Day9\Day6\Day6\GeoShapApp\obj\Debug\net8.0\GeoShapApp.genruntimeconfig.cache
+D:\ITI Materials\Day9\Day6\Day6\GeoShapApp\obj\Debug\net8.0\ref\GeoShapApp.dll

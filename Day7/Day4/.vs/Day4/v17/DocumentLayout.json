@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ITI Materials\\Day7\\Day4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50A1D894-CA3F-4F85-8933-B7202B2056BE}|MenuAppV2\\MenuAppV2.csproj|d:\\iti materials\\day7\\day4\\menuappv2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50A1D894-CA3F-4F85-8933-B7202B2056BE}|MenuAppV2\\MenuAppV2.csproj|solutionrelative:menuappv2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F64BEE-8336-4225-A686-129E01D21F8D}|EmployeeClassLibrary\\EmployeeClassLibrary.csproj|d:\\iti materials\\day7\\day4\\employeeclasslibrary\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3F64BEE-8336-4225-A686-129E01D21F8D}|EmployeeClassLibrary\\EmployeeClassLibrary.csproj|solutionrelative:employeeclasslibrary\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53887809-3AD7-4790-8947-128DA570EDB9}|..\\..\\Day6\\Day3_assignment\\MenuApp.csproj|d:\\iti materials\\day6\\day3_assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A6A72B-EB5E-4D33-BA96-FF5BC7473C76}|Complex\\ComplexApp.csproj|d:\\iti materials\\day7\\day4\\complex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A6A72B-EB5E-4D33-BA96-FF5BC7473C76}|Complex\\ComplexApp.csproj|solutionrelative:complex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\ITI Materials\\Day7\\Day4\\EmployeeClassLibrary\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeClassLibrary\\Employee.cs",
+              "ToolTip": "D:\\ITI Materials\\Day7\\Day4\\EmployeeClassLibrary\\Employee.cs",
+              "RelativeToolTip": "EmployeeClassLibrary\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T11:55:17.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ITI Materials\\Day7\\Day4\\Complex\\Program.cs",
+              "RelativeDocumentMoniker": "Complex\\Program.cs",
+              "ToolTip": "D:\\ITI Materials\\Day7\\Day4\\Complex\\Program.cs",
+              "RelativeToolTip": "Complex\\Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAA0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T11:36:22.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ITI Materials\\Day6\\Day3_assignment\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\Day6\\Day3_assignment\\Program.cs",
+              "ToolTip": "D:\\ITI Materials\\Day6\\Day3_assignment\\Program.cs",
+              "RelativeToolTip": "..\\..\\Day6\\Day3_assignment\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T11:12:42.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ITI Materials\\Day7\\Day4\\MenuAppV2\\Program.cs",
+              "RelativeDocumentMoniker": "MenuAppV2\\Program.cs",
+              "ToolTip": "D:\\ITI Materials\\Day7\\Day4\\MenuAppV2\\Program.cs",
+              "RelativeToolTip": "MenuAppV2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T11:01:04.209Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

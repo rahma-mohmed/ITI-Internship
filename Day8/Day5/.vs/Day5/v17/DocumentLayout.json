@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ITI Materials\\Day8\\Day5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4913A7-3D1D-4DCA-A269-06AC099D130D}|Day5\\MenuAppUsingClass.csproj|d:\\iti materials\\day8\\day5\\day5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E4913A7-3D1D-4DCA-A269-06AC099D130D}|Day5\\MenuAppUsingClass.csproj|solutionrelative:day5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37E72A1D-9AF1-4274-B7EE-D8C439B26BE8}|Stack\\Stack.csproj|d:\\iti materials\\day8\\day5\\stack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37E72A1D-9AF1-4274-B7EE-D8C439B26BE8}|Stack\\Stack.csproj|solutionrelative:stack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE351B3F-E062-4A68-AFB5-DADDD747AFFF}|MenuAppWIthExtentionMethod\\MenuAppWIthExtentionMethod.csproj|d:\\iti materials\\day8\\day5\\menuappwithextentionmethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE351B3F-E062-4A68-AFB5-DADDD747AFFF}|MenuAppWIthExtentionMethod\\MenuAppWIthExtentionMethod.csproj|solutionrelative:menuappwithextentionmethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ITI Materials\\Day8\\Day5\\Day5\\Program.cs",
+              "RelativeDocumentMoniker": "Day5\\Program.cs",
+              "ToolTip": "D:\\ITI Materials\\Day8\\Day5\\Day5\\Program.cs",
+              "RelativeToolTip": "Day5\\Program.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAiwG8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T12:26:30.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ITI Materials\\Day8\\Day5\\MenuAppWIthExtentionMethod\\Program.cs",
+              "RelativeDocumentMoniker": "MenuAppWIthExtentionMethod\\Program.cs",
+              "ToolTip": "D:\\ITI Materials\\Day8\\Day5\\MenuAppWIthExtentionMethod\\Program.cs*",
+              "RelativeToolTip": "MenuAppWIthExtentionMethod\\Program.cs*",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T11:18:03.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ITI Materials\\Day8\\Day5\\Stack\\Program.cs",
+              "RelativeDocumentMoniker": "Stack\\Program.cs",
+              "ToolTip": "D:\\ITI Materials\\Day8\\Day5\\Stack\\Program.cs",
+              "RelativeToolTip": "Stack\\Program.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAABQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T10:41:24.889Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

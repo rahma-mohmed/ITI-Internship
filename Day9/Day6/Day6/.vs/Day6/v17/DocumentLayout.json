@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ITI Materials\\Day9\\Day6\\Day6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44B0CCB4-0F20-411C-BFBD-22FE5410C163}|MenuApp\\MenuApp.csproj|d:\\iti materials\\day9\\day6\\day6\\menuapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44B0CCB4-0F20-411C-BFBD-22FE5410C163}|MenuApp\\MenuApp.csproj|solutionrelative:menuapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4699CE31-3525-4915-8CBB-F511065F6A03}|Stack\\Stack.csproj|d:\\iti materials\\day9\\day6\\day6\\stack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4699CE31-3525-4915-8CBB-F511065F6A03}|Stack\\Stack.csproj|solutionrelative:stack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE55C414-2E72-434F-AB62-AD5BB876CC29}|GeoShapApp\\GeoShapApp.csproj|d:\\iti materials\\day9\\day6\\day6\\geoshapapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE55C414-2E72-434F-AB62-AD5BB876CC29}|GeoShapApp\\GeoShapApp.csproj|solutionrelative:geoshapapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ITI Materials\\Day9\\Day6\\Day6\\Stack\\Program.cs",
+              "RelativeDocumentMoniker": "Stack\\Program.cs",
+              "ToolTip": "D:\\ITI Materials\\Day9\\Day6\\Day6\\Stack\\Program.cs",
+              "RelativeToolTip": "Stack\\Program.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAiwHoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T13:21:25.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ITI Materials\\Day9\\Day6\\Day6\\GeoShapApp\\Program.cs",
+              "RelativeDocumentMoniker": "GeoShapApp\\Program.cs",
+              "ToolTip": "D:\\ITI Materials\\Day9\\Day6\\Day6\\GeoShapApp\\Program.cs",
+              "RelativeToolTip": "GeoShapApp\\Program.cs",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAAAB4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T12:48:48.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ITI Materials\\Day9\\Day6\\Day6\\MenuApp\\Program.cs",
+              "RelativeDocumentMoniker": "MenuApp\\Program.cs",
+              "ToolTip": "D:\\ITI Materials\\Day9\\Day6\\Day6\\MenuApp\\Program.cs",
+              "RelativeToolTip": "MenuApp\\Program.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAQwHwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T08:36:13.051Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

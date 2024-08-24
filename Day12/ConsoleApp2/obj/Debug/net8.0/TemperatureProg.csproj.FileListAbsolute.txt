@@ -1,0 +1,14 @@
+D:\ITI Materials\Day12\ConsoleApp2\bin\Debug\net8.0\TemperatureProg.exe
+D:\ITI Materials\Day12\ConsoleApp2\bin\Debug\net8.0\TemperatureProg.deps.json
+D:\ITI Materials\Day12\ConsoleApp2\bin\Debug\net8.0\TemperatureProg.runtimeconfig.json
+D:\ITI Materials\Day12\ConsoleApp2\bin\Debug\net8.0\TemperatureProg.dll
+D:\ITI Materials\Day12\ConsoleApp2\bin\Debug\net8.0\TemperatureProg.pdb
+D:\ITI Materials\Day12\ConsoleApp2\obj\Debug\net8.0\TemperatureProg.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI Materials\Day12\ConsoleApp2\obj\Debug\net8.0\TemperatureProg.AssemblyInfoInputs.cache
+D:\ITI Materials\Day12\ConsoleApp2\obj\Debug\net8.0\TemperatureProg.AssemblyInfo.cs
+D:\ITI Materials\Day12\ConsoleApp2\obj\Debug\net8.0\TemperatureProg.csproj.CoreCompileInputs.cache
+D:\ITI Materials\Day12\ConsoleApp2\obj\Debug\net8.0\TemperatureProg.dll
+D:\ITI Materials\Day12\ConsoleApp2\obj\Debug\net8.0\refint\TemperatureProg.dll
+D:\ITI Materials\Day12\ConsoleApp2\obj\Debug\net8.0\TemperatureProg.pdb
+D:\ITI Materials\Day12\ConsoleApp2\obj\Debug\net8.0\TemperatureProg.genruntimeconfig.cache
+D:\ITI Materials\Day12\ConsoleApp2\obj\Debug\net8.0\ref\TemperatureProg.dll

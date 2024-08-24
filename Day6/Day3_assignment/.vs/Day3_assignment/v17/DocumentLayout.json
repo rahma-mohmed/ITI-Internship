@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ITI Materials\\Day6\\Day3_assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44921CBA-64EE-4E8B-8148-A5E5D8E5AC19}|MenuApp.csproj|d:\\iti materials\\day6\\day3_assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44921CBA-64EE-4E8B-8148-A5E5D8E5AC19}|MenuApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ITI Materials\\Day7\\Student_Class\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ITI Materials\\Day7\\FactorialApp\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ITI Materials\\Day7\\Student_Class\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\Day7\\Student_Class\\Program.cs",
+              "ToolTip": "D:\\ITI Materials\\Day7\\Student_Class\\Program.cs",
+              "RelativeToolTip": "..\\..\\Day7\\Student_Class\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T10:17:06.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ITI Materials\\Day6\\Day3_assignment\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\ITI Materials\\Day6\\Day3_assignment\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T07:57:01.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ITI Materials\\Day7\\FactorialApp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\Day7\\FactorialApp\\Program.cs",
+              "ToolTip": "D:\\ITI Materials\\Day7\\FactorialApp\\Program.cs",
+              "RelativeToolTip": "..\\..\\Day7\\FactorialApp\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwBgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T11:34:21.121Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
