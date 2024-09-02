@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ITIMVCD1.props" />
+</Project>
