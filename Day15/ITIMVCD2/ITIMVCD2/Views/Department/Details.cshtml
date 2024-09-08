@@ -1,0 +1,24 @@
+﻿@model ITIMVCD1.Models.Department
+
+<h1 class="text-center my-4">Department Details</h1>
+
+<div class="card shadow-lg">
+    <div class="card-body">
+        <table class="table table-hover">
+            <tbody>
+                <tr>
+                    <th scope="row" class="text-right">ID</th>
+                    <td>@Model.Id</td>
+                </tr>
+                <tr>
+                    <th scope="row" class="text-right" style="width: 30%;">Name</th>
+                    <td>@Model.Name</td>
+                </tr>
+                <tr>
+                    <th scope="row" class="text-right">Capacity</th>
+                    <td>@Model.Capacity</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>

@@ -1,0 +1,21 @@
+﻿@model ITIMVCD1.Models.Student
+
+<h1>Delete Confirmation</h1>
+
+<html>
+<head>
+    <title>Delete Confirmation</title>
+</head>
+<body>
+    <div>
+        <h6>Are you Sure Delete Student : @Model.Name</h6>
+    </div>
+    <br />
+    <form method="post">
+        <input type="hidden" asp-for="Id" />
+        <input type="submit" value="Delete" class="btn btn-danger" />
+    </form>
+    <br />
+    <a asp-action="Index">Back TO List</a>
+</body>
+</html>

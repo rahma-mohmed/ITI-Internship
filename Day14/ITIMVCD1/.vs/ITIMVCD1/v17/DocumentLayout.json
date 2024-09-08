@@ -3,34 +3,27 @@
   "WorkspaceRootPath": "D:\\ITI Materials\\Day14\\ITIMVCD1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2396480-F057-48A2-B108-93C4E5AD673D}|ITIMVCD1\\ITIMVCD1.csproj|d:\\iti materials\\day14\\itimvcd1\\itimvcd1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2396480-F057-48A2-B108-93C4E5AD673D}|ITIMVCD1\\ITIMVCD1.csproj|solutionrelative:itimvcd1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/./MVCST1/True/SqlTable/dbo.Students.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2396480-F057-48A2-B108-93C4E5AD673D}|ITIMVCD1\\ITIMVCD1.csproj|d:\\iti materials\\day14\\itimvcd1\\itimvcd1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2396480-F057-48A2-B108-93C4E5AD673D}|ITIMVCD1\\ITIMVCD1.csproj|solutionrelative:itimvcd1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2396480-F057-48A2-B108-93C4E5AD673D}|ITIMVCD1\\ITIMVCD1.csproj|d:\\iti materials\\day14\\itimvcd1\\itimvcd1\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2396480-F057-48A2-B108-93C4E5AD673D}|ITIMVCD1\\ITIMVCD1.csproj|solutionrelative:itimvcd1\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/./MVCST1/True/SqlTable/dbo.Department.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+      "AbsoluteMoniker": "D:0:0:{A2396480-F057-48A2-B108-93C4E5AD673D}|ITIMVCD1\\ITIMVCD1.csproj|d:\\iti materials\\day14\\itimvcd1\\itimvcd1\\repository\\idepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2396480-F057-48A2-B108-93C4E5AD673D}|ITIMVCD1\\ITIMVCD1.csproj|solutionrelative:itimvcd1\\repository\\idepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2396480-F057-48A2-B108-93C4E5AD673D}|ITIMVCD1\\ITIMVCD1.csproj|d:\\iti materials\\day14\\itimvcd1\\itimvcd1\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2396480-F057-48A2-B108-93C4E5AD673D}|ITIMVCD1\\ITIMVCD1.csproj|solutionrelative:itimvcd1\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2396480-F057-48A2-B108-93C4E5AD673D}|ITIMVCD1\\ITIMVCD1.csproj|d:\\iti materials\\day14\\itimvcd1\\itimvcd1\\data\\iticontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2396480-F057-48A2-B108-93C4E5AD673D}|ITIMVCD1\\ITIMVCD1.csproj|solutionrelative:itimvcd1\\data\\iticontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2396480-F057-48A2-B108-93C4E5AD673D}|ITIMVCD1\\ITIMVCD1.csproj|d:\\iti materials\\day14\\itimvcd1\\itimvcd1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2396480-F057-48A2-B108-93C4E5AD673D}|ITIMVCD1\\ITIMVCD1.csproj|solutionrelative:itimvcd1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2396480-F057-48A2-B108-93C4E5AD673D}|ITIMVCD1\\ITIMVCD1.csproj|d:\\iti materials\\day14\\itimvcd1\\itimvcd1\\itimvcd1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A2396480-F057-48A2-B108-93C4E5AD673D}|ITIMVCD1\\ITIMVCD1.csproj|solutionrelative:itimvcd1\\itimvcd1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A2396480-F057-48A2-B108-93C4E5AD673D}|ITIMVCD1\\ITIMVCD1.csproj|d:\\iti materials\\day14\\itimvcd1\\itimvcd1\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2396480-F057-48A2-B108-93C4E5AD673D}|ITIMVCD1\\ITIMVCD1.csproj|solutionrelative:itimvcd1\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2396480-F057-48A2-B108-93C4E5AD673D}|ITIMVCD1\\ITIMVCD1.csproj|d:\\iti materials\\day14\\itimvcd1\\itimvcd1\\repository\\istudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2396480-F057-48A2-B108-93C4E5AD673D}|ITIMVCD1\\ITIMVCD1.csproj|solutionrelative:itimvcd1\\repository\\istudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/./MVCST1/True/SqlTable/dbo.Department.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,41 +33,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "StudentController.cs",
-              "DocumentMoniker": "D:\\ITI Materials\\Day14\\ITIMVCD1\\ITIMVCD1\\Controllers\\StudentController.cs",
-              "RelativeDocumentMoniker": "ITIMVCD1\\Controllers\\StudentController.cs",
-              "ToolTip": "D:\\ITI Materials\\Day14\\ITIMVCD1\\ITIMVCD1\\Controllers\\StudentController.cs",
-              "RelativeToolTip": "ITIMVCD1\\Controllers\\StudentController.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAACUAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T14:07:27.628Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "dbo.Students [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/./MVCST1/True/SqlTable/dbo.Students.sql",
-              "ToolTip": "dbo.Students [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-09-02T15:04:52.546Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "dbo.Department [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/./MVCST1/True/SqlTable/dbo.Department.sql",
-              "ToolTip": "dbo.Department [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-09-02T15:43:29.824Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
@@ -83,60 +43,73 @@
               "RelativeDocumentMoniker": "ITIMVCD1\\Controllers\\DepartmentController.cs",
               "ToolTip": "D:\\ITI Materials\\Day14\\ITIMVCD1\\ITIMVCD1\\Controllers\\DepartmentController.cs",
               "RelativeToolTip": "ITIMVCD1\\Controllers\\DepartmentController.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAADQAAAANAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACMAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T14:07:50.532Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Department.cs",
-              "DocumentMoniker": "D:\\ITI Materials\\Day14\\ITIMVCD1\\ITIMVCD1\\Models\\Department.cs",
-              "RelativeDocumentMoniker": "ITIMVCD1\\Models\\Department.cs",
-              "ToolTip": "D:\\ITI Materials\\Day14\\ITIMVCD1\\ITIMVCD1\\Models\\Department.cs",
-              "RelativeToolTip": "ITIMVCD1\\Models\\Department.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T13:52:43.787Z",
+              "WhenOpened": "2024-09-05T09:41:49.426Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Student.cs",
-              "DocumentMoniker": "D:\\ITI Materials\\Day14\\ITIMVCD1\\ITIMVCD1\\Models\\Student.cs",
-              "RelativeDocumentMoniker": "ITIMVCD1\\Models\\Student.cs",
-              "ToolTip": "D:\\ITI Materials\\Day14\\ITIMVCD1\\ITIMVCD1\\Models\\Student.cs",
-              "RelativeToolTip": "ITIMVCD1\\Models\\Student.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\ITI Materials\\Day14\\ITIMVCD1\\ITIMVCD1\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "ITIMVCD1\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\ITI Materials\\Day14\\ITIMVCD1\\ITIMVCD1\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "ITIMVCD1\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T13:50:14.366Z",
+              "WhenOpened": "2024-09-04T09:37:47.673Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ITIMVCD1.csproj",
-              "DocumentMoniker": "D:\\ITI Materials\\Day14\\ITIMVCD1\\ITIMVCD1\\ITIMVCD1.csproj",
-              "RelativeDocumentMoniker": "ITIMVCD1\\ITIMVCD1.csproj",
-              "ToolTip": "D:\\ITI Materials\\Day14\\ITIMVCD1\\ITIMVCD1\\ITIMVCD1.csproj",
-              "RelativeToolTip": "ITIMVCD1\\ITIMVCD1.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-02T14:06:01.756Z"
+              "DocumentIndex": 0,
+              "Title": "IDepartment.cs",
+              "DocumentMoniker": "D:\\ITI Materials\\Day14\\ITIMVCD1\\ITIMVCD1\\Repository\\IDepartment.cs",
+              "RelativeDocumentMoniker": "ITIMVCD1\\Repository\\IDepartment.cs",
+              "ToolTip": "D:\\ITI Materials\\Day14\\ITIMVCD1\\ITIMVCD1\\Repository\\IDepartment.cs",
+              "RelativeToolTip": "ITIMVCD1\\Repository\\IDepartment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T09:48:33.11Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ITIContext.cs",
-              "DocumentMoniker": "D:\\ITI Materials\\Day14\\ITIMVCD1\\ITIMVCD1\\Data\\ITIContext.cs",
-              "RelativeDocumentMoniker": "ITIMVCD1\\Data\\ITIContext.cs",
-              "ToolTip": "D:\\ITI Materials\\Day14\\ITIMVCD1\\ITIMVCD1\\Data\\ITIContext.cs",
-              "RelativeToolTip": "ITIMVCD1\\Data\\ITIContext.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAkwBQAAAAIAAAA",
+              "DocumentIndex": 4,
+              "Title": "IStudent.cs",
+              "DocumentMoniker": "D:\\ITI Materials\\Day14\\ITIMVCD1\\ITIMVCD1\\Repository\\IStudent.cs",
+              "RelativeDocumentMoniker": "ITIMVCD1\\Repository\\IStudent.cs",
+              "ToolTip": "D:\\ITI Materials\\Day14\\ITIMVCD1\\ITIMVCD1\\Repository\\IStudent.cs",
+              "RelativeToolTip": "ITIMVCD1\\Repository\\IStudent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T14:00:41.609Z",
+              "WhenOpened": "2024-09-05T09:07:39.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\ITI Materials\\Day14\\ITIMVCD1\\ITIMVCD1\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "ITIMVCD1\\Models\\Department.cs",
+              "ToolTip": "D:\\ITI Materials\\Day14\\ITIMVCD1\\ITIMVCD1\\Models\\Department.cs",
+              "RelativeToolTip": "ITIMVCD1\\Models\\Department.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T09:48:20.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dbo.Department [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/./MVCST1/True/SqlTable/dbo.Department.sql",
+              "ToolTip": "dbo.Department [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-05T09:37:48.589Z",
               "EditorCaption": ""
             }
           ]

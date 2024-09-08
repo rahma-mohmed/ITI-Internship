@@ -11,6 +11,12 @@ namespace ITIMVCD1
 
             var app = builder.Build();
 
+            //app.Use(async (c,n) => {
+            //    //c.Response.ContentType = "text/html";
+            //    await c.Response.WriteAsync("welcome from first middleware");
+            //    await n.Invoke();
+            //    });
+
             // Configure the HTTP request pipeline.
             if (!app.Environment.IsDevelopment())
             {

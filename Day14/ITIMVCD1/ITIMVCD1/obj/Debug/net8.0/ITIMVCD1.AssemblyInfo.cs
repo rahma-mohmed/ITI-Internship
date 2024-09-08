@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ITIMVCD1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d6a08fd704658addab40dbbe7b64e052502dec28")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1ffdf8bfd1019aac0dcdf519d7af81bbeab49509")]
 [assembly: System.Reflection.AssemblyProductAttribute("ITIMVCD1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ITIMVCD1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

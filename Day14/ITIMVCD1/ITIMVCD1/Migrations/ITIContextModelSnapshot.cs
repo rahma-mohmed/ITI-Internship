@@ -33,6 +33,9 @@ namespace ITIMVCD1.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<bool>("Statuse")
+                        .HasColumnType("bit");
+
                     b.HasKey("Id");
 
                     b.ToTable("Department");
@@ -52,7 +55,16 @@ namespace ITIMVCD1.Migrations
                     b.Property<int>("DeptId")
                         .HasColumnType("int");
 
+                    b.Property<string>("Email")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<string>("Name")
+                        .IsRequired()
+                        .HasMaxLength(15)
+                        .HasColumnType("nvarchar(15)");
+
+                    b.Property<string>("Password")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 

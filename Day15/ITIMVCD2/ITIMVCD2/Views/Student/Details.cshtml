@@ -1,0 +1,23 @@
+﻿@model ITIMVCD1.Models.Student
+
+<h1>Details</h1>
+
+<div class="card shadow-lg">
+    <div class="card-body">
+        <h4>Student Details</h4>
+        <table class="table table-bordered table-hover table-striped">
+            <tr>
+                <th>Name</th>
+                <td>@Model.Name</td>
+            </tr>
+            <tr>
+                <th>Age</th>
+                <td>@Model.Age</td>
+            </tr>
+            <tr>
+                <th>Department</th>
+                <td>@Model.Department.Name</td>
+            </tr>
+        </table>
+    </div>
+</div>

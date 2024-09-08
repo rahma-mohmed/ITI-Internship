@@ -1,57 +1,104 @@
 ﻿using ITIMVCD1.Data;
 using ITIMVCD1.Models;
+using ITIMVCD1.Repository;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 
 namespace ITIMVCD1.Controllers
 {
     public class DepartmentController : Controller
     {
         ITIContext _context = new ITIContext();
+        IDepartment studentRepository = new DepartmentRepo();
 
-        public JsonResult Index()
+        public IActionResult Index()
         {
-            var res = _context.Department.ToList();
-            return Json(res);
+            //var res = _context.Department.ToList();
+            var res = studentRepository.GetAll();
+            return View(res);
         }
 
-        public string Create(int deptid , string name , int capacity)
+        public IActionResult Create()
         {
-            Department department = new Department();
-            department.Name = name;
-            department.Capacity = capacity;
-            department.Id = deptid;
-            _context.Department.Add(department);
-            _context.SaveChanges();
-            return "Department Added Successfully!!";
+            return View();
         }
 
-        public IActionResult Details(int deptid)
+        [HttpPost]
+        public IActionResult Create(Department dept)
         {
-            Department dept = _context.Department.SingleOrDefault(d => d.Id == deptid);
-            //return $"Department ID: {dept.Id}, Department Name: {dept.Name}, Department Capacity: {dept.Capacity}";
+            if (ModelState.IsValid)
+            {
+                /*_context.Department.Add(dept);
+                _context.SaveChanges();*/
+                studentRepository.Create(dept);
+                return RedirectToAction("Index");
+            }
+            else
+            {
+                return View(dept);
+            }
+        }
+
+        public IActionResult Details(int? deptid)
+        {
+            if(deptid == null)
+            {
+                return BadRequest();
+            }
+            //Department dept = _context.Department.SingleOrDefault(d => d.Id == deptid);
+            Department dept = studentRepository.GetById(deptid.Value);
+            if(dept == null)
+            {
+                return NotFound();
+            }
             return View(dept);
         }
 
-        public string Delete(int id)
+        public IActionResult Delete(int id)
         {
-            Department dept = _context.Department.SingleOrDefault(d => d.Id == id);
-            _context.Department.Remove(dept);
-            _context.SaveChanges();
-            return $"Department {dept.Id} Deleted Successfully!!";
+            //Department dept = _context.Department.SingleOrDefault(d => d.Id == id);
+            Department dept = studentRepository.GetById(id);
+            return View(dept);
         }
 
-        public string Update(int id, string name, int capacity)
+        [HttpPost , ActionName("Delete")]
+        public IActionResult ConfirmDelete(int id)
         {
-            Department department= _context.Department.SingleOrDefault(d => d.Id==id);
-            if (department != null)
-            {
-                department.Name = name;
-                department.Capacity = capacity;
-                _context.SaveChanges();
+            /*Department dept = _context.Department.SingleOrDefault(d => d.Id == id);
+            _context.Department.Remove(dept);
+            _context.SaveChanges();*/
+            studentRepository.Delete(id);
+            return RedirectToAction("Index");
+        }
 
-                return $"Department Updated Successfully!!";
+        public IActionResult Update(int id) {
+            //Department dept = _context.Department.SingleOrDefault(d => d.Id == id);
+            Department dept = studentRepository.GetById(id);
+            return View(dept);
+        }
+
+        [HttpPost]
+        public IActionResult Update(Department department)
+        {
+            //Department dept = _context.Department.SingleOrDefault(s => s.Id == department.Id);
+            Department dept = studentRepository.GetById(department.Id);
+            if (dept != null)
+            {
+                if (ModelState.IsValid)
+                {
+                    //dept.Id = department.Id;
+                    //dept.Name = department.Name;
+                    //dept.Capacity = department.Capacity;
+                    //_context.SaveChanges();
+                    studentRepository.Update(department);
+                    return RedirectToAction("Index");
+                }
+                else
+                {
+                    return View(dept);
+                }
             }
-            return $"Department Of ID = {department.Id} Is Not Found";
+            return BadRequest();
         }
 
     }
