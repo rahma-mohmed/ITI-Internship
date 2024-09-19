@@ -1,6 +1,7 @@
 ﻿using ITIMVCD1.Data;
+using ITIMVCD1.IRepository;
 using ITIMVCD1.Models;
-using ITIMVCD1.Repository;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
@@ -8,16 +9,23 @@ namespace ITIMVCD1.Controllers
 {
     public class DepartmentController : Controller
     {
-        ITIContext _context = new ITIContext();
-        IDepartment studentRepository = new DepartmentRepo();
+        ITIContext _context;
+        IDepartmentRepository deptRepository;
+
+        public DepartmentController(ITIContext context, IDepartmentRepository deptRepository)
+        {
+            _context = context;
+            this.deptRepository = deptRepository;
+        }
 
         public IActionResult Index()
         {
             //var res = _context.Department.ToList();
-            var res = studentRepository.GetAll();
+            var res = deptRepository.GetAll();
             return View(res);
         }
 
+        [Authorize(Roles = "Admin")]
         public IActionResult Create()
         {
             return View();
@@ -30,7 +38,7 @@ namespace ITIMVCD1.Controllers
             {
                 /*_context.Department.Add(dept);
                 _context.SaveChanges();*/
-                studentRepository.Create(dept);
+                deptRepository.Create(dept);
                 return RedirectToAction("Index");
             }
             else
@@ -39,6 +47,7 @@ namespace ITIMVCD1.Controllers
             }
         }
 
+        [Authorize]
         public IActionResult Details(int? deptid)
         {
             if(deptid == null)
@@ -46,7 +55,7 @@ namespace ITIMVCD1.Controllers
                 return BadRequest();
             }
             //Department dept = _context.Department.SingleOrDefault(d => d.Id == deptid);
-            Department dept = studentRepository.GetById(deptid.Value);
+            Department dept = deptRepository.GetById(deptid.Value);
             if(dept == null)
             {
                 return NotFound();
@@ -54,10 +63,11 @@ namespace ITIMVCD1.Controllers
             return View(dept);
         }
 
+        [Authorize(Roles = "Admin")]
         public IActionResult Delete(int id)
         {
             //Department dept = _context.Department.SingleOrDefault(d => d.Id == id);
-            Department dept = studentRepository.GetById(id);
+            Department dept = deptRepository.GetById(id);
             return View(dept);
         }
 
@@ -67,13 +77,14 @@ namespace ITIMVCD1.Controllers
             /*Department dept = _context.Department.SingleOrDefault(d => d.Id == id);
             _context.Department.Remove(dept);
             _context.SaveChanges();*/
-            studentRepository.Delete(id);
+            deptRepository.Delete(id);
             return RedirectToAction("Index");
         }
 
+        [Authorize(Roles = "Admin")]
         public IActionResult Update(int id) {
             //Department dept = _context.Department.SingleOrDefault(d => d.Id == id);
-            Department dept = studentRepository.GetById(id);
+            Department dept = deptRepository.GetById(id);
             return View(dept);
         }
 
@@ -81,7 +92,7 @@ namespace ITIMVCD1.Controllers
         public IActionResult Update(Department department)
         {
             //Department dept = _context.Department.SingleOrDefault(s => s.Id == department.Id);
-            Department dept = studentRepository.GetById(department.Id);
+            Department dept = deptRepository.GetById(department.Id);
             if (dept != null)
             {
                 if (ModelState.IsValid)
@@ -90,7 +101,7 @@ namespace ITIMVCD1.Controllers
                     //dept.Name = department.Name;
                     //dept.Capacity = department.Capacity;
                     //_context.SaveChanges();
-                    studentRepository.Update(department);
+                    deptRepository.Update(department);
                     return RedirectToAction("Index");
                 }
                 else

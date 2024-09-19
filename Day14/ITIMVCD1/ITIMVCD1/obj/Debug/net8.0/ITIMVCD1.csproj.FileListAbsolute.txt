@@ -251,3 +251,10 @@ D:\ITI Materials\Day14\ITIMVCD1\ITIMVCD1\bin\Debug\net8.0\runtimes\win\lib\net7.
 D:\ITI Materials\Day14\ITIMVCD1\ITIMVCD1\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 D:\ITI Materials\Day14\ITIMVCD1\ITIMVCD1\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 D:\ITI Materials\Day14\ITIMVCD1\ITIMVCD1\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\ITI Materials\Day14\ITIMVCD1\ITIMVCD1\bin\Debug\net8.0\ar\ITIMVCD1.resources.dll
+D:\ITI Materials\Day14\ITIMVCD1\ITIMVCD1\bin\Debug\net8.0\en\ITIMVCD1.resources.dll
+D:\ITI Materials\Day14\ITIMVCD1\ITIMVCD1\obj\Debug\net8.0\ITIMVCD1.Resources.Views.Shared._Layout.ar.resources
+D:\ITI Materials\Day14\ITIMVCD1\ITIMVCD1\obj\Debug\net8.0\ITIMVCD1.Resources.Views.Shared._Layout.en.resources
+D:\ITI Materials\Day14\ITIMVCD1\ITIMVCD1\obj\Debug\net8.0\ITIMVCD1.csproj.GenerateResource.cache
+D:\ITI Materials\Day14\ITIMVCD1\ITIMVCD1\obj\Debug\net8.0\ar\ITIMVCD1.resources.dll
+D:\ITI Materials\Day14\ITIMVCD1\ITIMVCD1\obj\Debug\net8.0\en\ITIMVCD1.resources.dll

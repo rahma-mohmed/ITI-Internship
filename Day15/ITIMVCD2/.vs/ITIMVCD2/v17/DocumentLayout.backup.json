@@ -1,0 +1,192 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ITI Materials\\Day15\\ITIMVCD2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD0EA455-BF9D-48D1-823D-DE01931692CB}|ITIMVCD2\\ITIMVCD2.csproj|d:\\iti materials\\day15\\itimvcd2\\itimvcd2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD0EA455-BF9D-48D1-823D-DE01931692CB}|ITIMVCD2\\ITIMVCD2.csproj|solutionrelative:itimvcd2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD0EA455-BF9D-48D1-823D-DE01931692CB}|ITIMVCD2\\ITIMVCD2.csproj|d:\\iti materials\\day15\\itimvcd2\\itimvcd2\\customactionfilter\\exceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD0EA455-BF9D-48D1-823D-DE01931692CB}|ITIMVCD2\\ITIMVCD2.csproj|solutionrelative:itimvcd2\\customactionfilter\\exceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD0EA455-BF9D-48D1-823D-DE01931692CB}|ITIMVCD2\\ITIMVCD2.csproj|d:\\iti materials\\day15\\itimvcd2\\itimvcd2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD0EA455-BF9D-48D1-823D-DE01931692CB}|ITIMVCD2\\ITIMVCD2.csproj|solutionrelative:itimvcd2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD0EA455-BF9D-48D1-823D-DE01931692CB}|ITIMVCD2\\ITIMVCD2.csproj|d:\\iti materials\\day15\\itimvcd2\\itimvcd2\\views\\department\\addname.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD0EA455-BF9D-48D1-823D-DE01931692CB}|ITIMVCD2\\ITIMVCD2.csproj|solutionrelative:itimvcd2\\views\\department\\addname.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD0EA455-BF9D-48D1-823D-DE01931692CB}|ITIMVCD2\\ITIMVCD2.csproj|d:\\iti materials\\day15\\itimvcd2\\itimvcd2\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD0EA455-BF9D-48D1-823D-DE01931692CB}|ITIMVCD2\\ITIMVCD2.csproj|solutionrelative:itimvcd2\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/./MVCST1/True/SqlTable/dbo.users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/./MVCST1/True/SqlTable/dbo.Roles.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD0EA455-BF9D-48D1-823D-DE01931692CB}|ITIMVCD2\\ITIMVCD2.csproj|d:\\iti materials\\day15\\itimvcd2\\itimvcd2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD0EA455-BF9D-48D1-823D-DE01931692CB}|ITIMVCD2\\ITIMVCD2.csproj|solutionrelative:itimvcd2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD0EA455-BF9D-48D1-823D-DE01931692CB}|ITIMVCD2\\ITIMVCD2.csproj|d:\\iti materials\\day15\\itimvcd2\\itimvcd2\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD0EA455-BF9D-48D1-823D-DE01931692CB}|ITIMVCD2\\ITIMVCD2.csproj|solutionrelative:itimvcd2\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD0EA455-BF9D-48D1-823D-DE01931692CB}|ITIMVCD2\\ITIMVCD2.csproj|d:\\iti materials\\day15\\itimvcd2\\itimvcd2\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD0EA455-BF9D-48D1-823D-DE01931692CB}|ITIMVCD2\\ITIMVCD2.csproj|solutionrelative:itimvcd2\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD0EA455-BF9D-48D1-823D-DE01931692CB}|ITIMVCD2\\ITIMVCD2.csproj|d:\\iti materials\\day15\\itimvcd2\\itimvcd2\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD0EA455-BF9D-48D1-823D-DE01931692CB}|ITIMVCD2\\ITIMVCD2.csproj|solutionrelative:itimvcd2\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\ITI Materials\\Day15\\ITIMVCD2\\ITIMVCD2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ITIMVCD2\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\ITI Materials\\Day15\\ITIMVCD2\\ITIMVCD2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ITIMVCD2\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAwwBMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T23:58:23.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ITI Materials\\Day15\\ITIMVCD2\\ITIMVCD2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ITIMVCD2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\ITI Materials\\Day15\\ITIMVCD2\\ITIMVCD2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ITIMVCD2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T23:58:14.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExceptionFilter.cs",
+              "DocumentMoniker": "D:\\ITI Materials\\Day15\\ITIMVCD2\\ITIMVCD2\\CustomActionFilter\\ExceptionFilter.cs",
+              "RelativeDocumentMoniker": "ITIMVCD2\\CustomActionFilter\\ExceptionFilter.cs",
+              "ToolTip": "D:\\ITI Materials\\Day15\\ITIMVCD2\\ITIMVCD2\\CustomActionFilter\\ExceptionFilter.cs",
+              "RelativeToolTip": "ITIMVCD2\\CustomActionFilter\\ExceptionFilter.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T23:52:56.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddName.cshtml",
+              "DocumentMoniker": "D:\\ITI Materials\\Day15\\ITIMVCD2\\ITIMVCD2\\Views\\Department\\AddName.cshtml",
+              "RelativeDocumentMoniker": "ITIMVCD2\\Views\\Department\\AddName.cshtml",
+              "ToolTip": "D:\\ITI Materials\\Day15\\ITIMVCD2\\ITIMVCD2\\Views\\Department\\AddName.cshtml",
+              "RelativeToolTip": "ITIMVCD2\\Views\\Department\\AddName.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T23:22:58.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dbo.users [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/./MVCST1/True/SqlTable/dbo.users.sql",
+              "ToolTip": "dbo.users [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-12T20:38:05.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "dbo.Roles [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/./MVCST1/True/SqlTable/dbo.Roles.sql",
+              "ToolTip": "dbo.Roles [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-12T18:59:00.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ITI Materials\\Day15\\ITIMVCD2\\ITIMVCD2\\Program.cs",
+              "RelativeDocumentMoniker": "ITIMVCD2\\Program.cs",
+              "ToolTip": "D:\\ITI Materials\\Day15\\ITIMVCD2\\ITIMVCD2\\Program.cs",
+              "RelativeToolTip": "ITIMVCD2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T13:25:07.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "D:\\ITI Materials\\Day15\\ITIMVCD2\\ITIMVCD2\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "ITIMVCD2\\Controllers\\DepartmentController.cs",
+              "ToolTip": "D:\\ITI Materials\\Day15\\ITIMVCD2\\ITIMVCD2\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "ITIMVCD2\\Controllers\\DepartmentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T07:26:05.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\ITI Materials\\Day15\\ITIMVCD2\\ITIMVCD2\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "ITIMVCD2\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\ITI Materials\\Day15\\ITIMVCD2\\ITIMVCD2\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "ITIMVCD2\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T15:03:12.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\ITI Materials\\Day15\\ITIMVCD2\\ITIMVCD2\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "ITIMVCD2\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\ITI Materials\\Day15\\ITIMVCD2\\ITIMVCD2\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "ITIMVCD2\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T15:08:56.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\ITI Materials\\Day15\\ITIMVCD2\\ITIMVCD2\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "ITIMVCD2\\Models\\LoginViewModel.cs",
+              "ToolTip": "D:\\ITI Materials\\Day15\\ITIMVCD2\\ITIMVCD2\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "ITIMVCD2\\Models\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T15:05:38.797Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

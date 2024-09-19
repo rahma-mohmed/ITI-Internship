@@ -1,4 +1,5 @@
 using ITIMVCD1.Models;
+using ITIMVCD2.CustomActionFilter;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
@@ -13,8 +14,10 @@ namespace ITIMVCD1.Controllers
             _logger = logger;
         }
 
+        [ExceptionFilter]
         public IActionResult Index()
         {
+            int x = int.Parse("Ad");
             return View();
         }
 

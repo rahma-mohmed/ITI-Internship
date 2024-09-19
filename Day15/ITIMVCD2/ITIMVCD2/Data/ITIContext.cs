@@ -1,5 +1,6 @@
 ﻿using ITIMVCD1.Models;
 using Microsoft.EntityFrameworkCore;
+using ITIMVCD2.Models;
 
 namespace ITIMVCD1.Data
 {
@@ -19,5 +20,6 @@ namespace ITIMVCD1.Data
         {
             base.OnModelCreating(modelBuilder);
         }
+        public DbSet<ITIMVCD2.Models.LoginViewModel> LoginViewModel { get; set; } = default!;
     }
 }

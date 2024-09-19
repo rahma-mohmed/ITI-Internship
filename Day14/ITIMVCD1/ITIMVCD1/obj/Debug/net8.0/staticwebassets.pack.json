@@ -5,12 +5,48 @@
       "PackagePath": "staticwebassets\\ITIMVCD1.bundle.scp.css"
     },
     {
+      "Id": "D:\\ITI Materials\\Day14\\ITIMVCD1\\ITIMVCD1\\wwwroot\\assets\\favicon.ico",
+      "PackagePath": "staticwebassets\\assets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\ITI Materials\\Day14\\ITIMVCD1\\ITIMVCD1\\wwwroot\\assets\\img\\bg-callout.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bg-callout.jpg"
+    },
+    {
+      "Id": "D:\\ITI Materials\\Day14\\ITIMVCD1\\ITIMVCD1\\wwwroot\\assets\\img\\bg-masthead.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bg-masthead.jpg"
+    },
+    {
+      "Id": "D:\\ITI Materials\\Day14\\ITIMVCD1\\ITIMVCD1\\wwwroot\\assets\\img\\portfolio-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio-1.jpg"
+    },
+    {
+      "Id": "D:\\ITI Materials\\Day14\\ITIMVCD1\\ITIMVCD1\\wwwroot\\assets\\img\\portfolio-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio-2.jpg"
+    },
+    {
+      "Id": "D:\\ITI Materials\\Day14\\ITIMVCD1\\ITIMVCD1\\wwwroot\\assets\\img\\portfolio-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio-3.jpg"
+    },
+    {
+      "Id": "D:\\ITI Materials\\Day14\\ITIMVCD1\\ITIMVCD1\\wwwroot\\assets\\img\\portfolio-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio-4.jpg"
+    },
+    {
       "Id": "D:\\ITI Materials\\Day14\\ITIMVCD1\\ITIMVCD1\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
+      "Id": "D:\\ITI Materials\\Day14\\ITIMVCD1\\ITIMVCD1\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
       "Id": "D:\\ITI Materials\\Day14\\ITIMVCD1\\ITIMVCD1\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\ITI Materials\\Day14\\ITIMVCD1\\ITIMVCD1\\wwwroot\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\js\\scripts.js"
     },
     {
       "Id": "D:\\ITI Materials\\Day14\\ITIMVCD1\\ITIMVCD1\\wwwroot\\js\\site.js",

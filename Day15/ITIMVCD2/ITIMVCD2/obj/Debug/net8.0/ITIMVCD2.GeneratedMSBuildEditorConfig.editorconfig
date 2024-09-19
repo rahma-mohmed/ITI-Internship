@@ -26,6 +26,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\ITI Materials\Day15\ITIMVCD2\ITIMVCD2
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/ITI Materials/Day15/ITIMVCD2/ITIMVCD2/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ITI Materials/Day15/ITIMVCD2/ITIMVCD2/Views/Department/AddName.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxBZGROYW1lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/ITI Materials/Day15/ITIMVCD2/ITIMVCD2/Views/Department/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

@@ -16,21 +16,11 @@ namespace ITIMVCD1.Models
 
         [Required]
         [RegularExpression(@"[a-zA-Z0-9_]+@[a-zA-Z]+.[a-zA-Z]{2,4}")]
-        [Remote(action:"EmailCheck", controller:"Student",ErrorMessage = "This Email already exists!!")]
         public string Email { get; set; }
 
+        [Display(Name = "Department")]
         [ForeignKey("Department")]
         public int DeptId { get; set; }
-
-        [Required]
-        public string Password { get; set; }
-
-        [NotMapped]
-        [Compare("Password")]
-        [Display(Name = "Confirm Password")]
-        [Required]
-        public string CPassword { get; set; }
-
         public virtual Department? Department { get; set; }
     }
 }

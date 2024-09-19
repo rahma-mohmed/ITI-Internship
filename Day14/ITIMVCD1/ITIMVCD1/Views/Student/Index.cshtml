@@ -1,6 +1,10 @@
 ﻿@model IEnumerable<ITIMVCD1.Models.Student>
 
-<h1>Student List:</h1>
+@{
+    ViewBag.Title = "Student";
+}
+
+<h1>Student List</h1>
 
 <div>
      <table class="table table-bordered table-hover">
@@ -28,14 +32,20 @@
                         <td>@item.Age</td>
                         <td>@item.Department.Name</td>
                         <td>
-                            <a asp-action="Details" asp-controller="Student" asp-route-stdid="@item.Id">Details</a>
-                            <a asp-action="Update" asp-controller="Student" asp-route-id="@item.Id">| Update</a>
-                            <a asp-action="Delete" asp-controller="Student" asp-route-id="@item.Id">| Delete</a>
+                            <a asp-action="Details" asp-controller="Student" asp-route-stdid="@item.Id" class="btn btn-info">Details</a>
+
+                            @if (User.IsInRole("Admin")){
+                                <a asp-action="Update" asp-controller="Student" asp-route-id="@item.Id" class="btn btn-primary">Update</a>
+                                <a asp-action="Delete" asp-controller="Student" asp-route-id="@item.Id" class="btn btn-danger">Delete</a>
+                            }
                         </td>
                     </tr>
                 }
             }
         </tbody>
      </table>
-     <a href="\Student\Create" class="btn btn-primary">Add To List</a>
+    @if (User.IsInRole("Admin")){
+        <a href="\Student\Create\#about" class="btn btn-primary">Add To List</a>
+    }
 </div>
+

@@ -1,11 +1,18 @@
 ﻿using ITIMVCD1.Data;
+using ITIMVCD1.IRepository;
 using ITIMVCD1.Models;
 using Microsoft.EntityFrameworkCore;
 namespace ITIMVCD1.Repository
 {
-    public class StudentRepository : IStudent
+    public class StudentRepository : IStudentRepository
     {
-        ITIContext _context = new ITIContext();
+        ITIContext _context;
+
+        public StudentRepository(ITIContext context)
+        {
+            _context = context;
+        }
+
         public void Create(Student student)
         {
             _context.Students.Add(student);
@@ -33,10 +40,7 @@ namespace ITIMVCD1.Repository
 
         public void Update(Student student)
         {
-            var std = _context.Students.FirstOrDefault(student => student.Id == student.Id);
-            std.Name = student.Name;
-            std.Age = student.Age;
-            std.DeptId = student.DeptId;
+            _context.Update(student);
             _context.SaveChanges();
         }
     }

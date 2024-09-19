@@ -28,5 +28,12 @@ namespace ITIMVCD1.Controllers
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
+
+            [HttpPost]
+            public IActionResult ChangeCulture(string culture)
+            {
+                Response.Cookies.Append("culture", culture, new CookieOptions { Expires = DateTime.Now.AddHours(1) });
+                return RedirectToAction("Index");
+            }
     }
 }

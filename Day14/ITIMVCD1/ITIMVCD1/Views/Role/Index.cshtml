@@ -1,0 +1,37 @@
+﻿@model IEnumerable<ITIMVCD1.Models.Role>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Roles List</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Role Id
+            </th>
+            <th>
+                Role Name
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @if(Model.Count()!=0){
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @item.Id
+                    </td>
+                    <td>
+                        @item.RoleName
+                    </td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>
+
+<a href="\Role\Create\#about" class="btn btn-primary">Add Role</a>

@@ -1,5 +1,6 @@
 ﻿using ITIMVCD1.Data;
 using ITIMVCD1.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace ITIMVCD1.Controllers
@@ -8,6 +9,7 @@ namespace ITIMVCD1.Controllers
     {
         ITIContext _context = new ITIContext();
 
+        [Authorize]
         public JsonResult Index()
         {
             var res = _context.Department.ToList();
@@ -54,5 +56,33 @@ namespace ITIMVCD1.Controllers
             return $"Department Of ID = {department.Id} Is Not Found";
         }
 
+        public IActionResult AddName()
+        {
+            int Id = 3;
+            string Name = "Ali";
+            Response.Cookies.Append("fname", Name , new CookieOptions { Expires = DateTime.Now.AddDays(1)});
+            Response.Cookies.Append("Id", Id.ToString());
+            return View();
+        }
+
+        public IActionResult GetName() {
+            int Id = int.Parse(Request.Cookies["Id"]);
+            string Name = Request.Cookies["fname"];
+            return Content($"{Id}: {Name}");
+        }
+
+        public IActionResult AddId()
+        {
+            HttpContext.Session.SetInt32("Id", 100);
+            HttpContext.Session.SetString("Name", "Rahma");
+            return View("AddName");
+        }
+
+        public IActionResult GetId()
+        {
+            int? Id = HttpContext.Session.GetInt32("Id");
+            string Name = HttpContext.Session.GetString("Name");
+            return Content($"{Id}: {Name}");
+        }
     }
 }

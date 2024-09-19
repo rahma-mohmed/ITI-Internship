@@ -1,3 +1,5 @@
+using Microsoft.AspNetCore.Authentication.Cookies;
+
 namespace ITIMVCD1
 {
     public class Program
@@ -8,6 +10,12 @@ namespace ITIMVCD1
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
+
+            builder.Services.AddSession();
+
+            builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme).AddCookie(
+                 a => a.LoginPath = "/Account/Login"
+                );
 
             var app = builder.Build();
 
@@ -24,7 +32,11 @@ namespace ITIMVCD1
 
             app.UseRouting();
 
+            app.UseAuthentication();
+
             app.UseAuthorization();
+
+            app.UseSession();
 
             app.MapControllerRoute(
                 name: "default",
